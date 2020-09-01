@@ -1,4 +1,8 @@
-# Personal Portfolio Website
+# Personal Portfolio Webpage
+A responsive web design project for freeCodeCamp.org
+This is a practice project for freeCodeCamp.org's "Responsive Web Design" course. Here's the project's requirements:
+
+## Project Requirements
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNBOYG.
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
